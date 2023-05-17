@@ -40,9 +40,6 @@ python -m ipykernel install --user --name=chatcap
 ```
 
 
-Download our dataset samples from [here](https://drive.google.com/drive/folders/1NtGtz_CbZJFxvbuV_AYx3Acy6-Q-p8Eg?usp=sharing) and extract the zip file to the root folder.
-
-
 To play with Video ChatCaptioner with a few dataset samples on msvd videos
 
 ```
