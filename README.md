@@ -60,10 +60,3 @@ python main_caption.py --exp_tag test --datasets cc_val artemis  --device_id 0
 ``` -->
 
 
-
-## Acknowledgement
-
-+ [ChatGPT](https://openai.com/blog/chatgpt/)
-+ [BLIP2](https://huggingface.co/docs/transformers/main/model_doc/blip-2)
-
-Please cite Video ChatCaptioner from the following bibtex
